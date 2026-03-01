@@ -185,13 +185,6 @@ npm run build
 - Player rankings and achievements
 - Community rewards programs
 
-## 📞 Support & Resources
-
-- Documentation: [docs.solanacasino.com](https://docs.solanacasino.com)
-- Discord: [Join our server](https://discord.gg/solanacasino)
-- Twitter: [@SolanaCasino](https://twitter.com/solanacasino)
-- Email: support@solanacasino.com
-
 ## ⚠️ Responsible Gaming
 
 We promote responsible gambling:
